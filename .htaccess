@@ -1,0 +1,7 @@
+ErrorDocument 404 /extra-404
+
+# Prevent listing of files...
+IndexIgnore *
+
+# render without extentions...
+Options +MultiViews
